@@ -1,0 +1,12 @@
+{
+  "name": "conceitos-node",
+  "version": "1.0.0",
+  "description": "projeto basico fundamentos node",
+  "license": "ISC",
+  "author": "Jonathan Andrade",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
